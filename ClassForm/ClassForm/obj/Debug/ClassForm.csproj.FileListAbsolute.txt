@@ -1,0 +1,11 @@
+D:\Лабы по тестированию\ClassForm\ClassForm\obj\Debug\ClassForm.csproj.AssemblyReference.cache
+D:\Лабы по тестированию\ClassForm\ClassForm\obj\Debug\ClassForm.csproj.SuggestedBindingRedirects.cache
+D:\Лабы по тестированию\ClassForm\ClassForm\obj\Debug\ClassForm.Form1.resources
+D:\Лабы по тестированию\ClassForm\ClassForm\obj\Debug\ClassForm.Properties.Resources.resources
+D:\Лабы по тестированию\ClassForm\ClassForm\obj\Debug\ClassForm.csproj.GenerateResource.cache
+D:\Лабы по тестированию\ClassForm\ClassForm\obj\Debug\ClassForm.csproj.CoreCompileInputs.cache
+D:\Лабы по тестированию\ClassForm\ClassForm\bin\Debug\ClassForm.exe.config
+D:\Лабы по тестированию\ClassForm\ClassForm\bin\Debug\ClassForm.exe
+D:\Лабы по тестированию\ClassForm\ClassForm\bin\Debug\ClassForm.pdb
+D:\Лабы по тестированию\ClassForm\ClassForm\obj\Debug\ClassForm.exe
+D:\Лабы по тестированию\ClassForm\ClassForm\obj\Debug\ClassForm.pdb
